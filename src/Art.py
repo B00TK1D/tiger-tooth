@@ -13,7 +13,7 @@ class Art:
 ════════════════════════════════════════════════════════════════════════════════════
     WELCOME to interactive operator prep.
 
-    We do hope that you enjoy this practice and that it helps you. This prcatice
+    We do hope that you enjoy this practice and that it helps you. This practice
     contains both multiple choice and short/fill in the blank answers. Everything
     must be entered exactly correct to be counted.
 
