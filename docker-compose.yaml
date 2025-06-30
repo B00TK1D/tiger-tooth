@@ -1,0 +1,7 @@
+services:
+  cowsay:
+    build: .
+    container_name: cowsay-shellbox
+    ports:
+      - "4200:4200"
+    restart: unless-stopped
